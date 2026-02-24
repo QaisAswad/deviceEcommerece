@@ -7,6 +7,7 @@ using System.ComponentModel.DataAnnotations;
 using System.Threading.Tasks;
 //this is my comment !!!
 // this is another comment with Hamzahhhhhh
+//this is hamzazh comment
 namespace ecomerce1.Controllers
 {
     public class accountController : Controller
